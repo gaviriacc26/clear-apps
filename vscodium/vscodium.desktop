@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=VSCodium
+Exec=/opt/vscodium/codium
+Icon=/opt/vscodium/resources/app/resources/linux/code.png
+Type=Application
+Terminal=False
+Categories=TextEditor;Development;IDE;
+StartupWMClass=VSCodium
