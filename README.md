@@ -1,6 +1,6 @@
 # Clear-Apps
 
-Install Binary Apps (Tars) in **Clear Linux** running **GNOME**.
+Install Binary Apps (Tarballs) in **Clear Linux**.
 
 ## Walkthrough
 
