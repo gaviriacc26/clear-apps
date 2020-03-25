@@ -20,6 +20,6 @@ cp vscodium.desktop /usr/local/share/applications
 # Symlink to binary to launch from terminal
 ln -s /opt/vscodium/bin/codium /usr/local/bin/codium
 
-# Fix font issue
+# Fix fonts issue
 ln -s /usr/share/defaults/fonts /etc
 
