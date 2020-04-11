@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Xampp
 Exec=pkexec /opt/lampp/manager-linux-x64.run
-Icon=/opt/lampp/img/xampp.png
+Icon=/opt/lampp/htdocs/dashboard/images/xampp-logo.svg
 Type=Application
 Categories=Development;
 StartupWMClass=package
