@@ -10,7 +10,7 @@ fi
 mkdir -p /opt/vscodium /usr/local/bin /usr/local/share/applications
 
 # Download vscodium tar and place it in /opt/vscodium
-curl -L https://github.com/VSCodium/vscodium/releases/download/1.44.1/VSCodium-linux-x64-1.44.1.tar.gz | tar -xzf - -C /opt/vscodium
+curl -L https://github.com/VSCodium/vscodium/releases/download/1.44.2/VSCodium-linux-x64-1.44.2.tar.gz | tar -xzf - -C /opt/vscodium
 
 # Create a desktop gnome app that links to vscodium
 cp vscodium.desktop /usr/local/share/applications
