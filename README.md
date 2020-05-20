@@ -1,4 +1,4 @@
-# Clear-Apps
+# Clear Apps
 
 Install Binary Apps (Tarballs) in **Clear Linux**.
 
